@@ -1,4 +1,12 @@
 #header {
+    background-color: rgb(238, 246, 14);
+    color: rgb(19, 18, 18);
+    font-weight: bold;
+    font-size: 38px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#final-header {
     background-color: rgb(36, 185, 36);
     color: rgb(236, 38, 38);
     font-weight: bold;
@@ -11,8 +19,16 @@
   outline: none;
   cursor: pointer;
   background-color: none;
+  position: fixed;
 }
 
 .align {
     text-align: center;
+}
+
+#elfbutton {
+    position: fixed;
+    bottom: 30px;
+    right: 20px;
+    cursor: pointer;
 }
