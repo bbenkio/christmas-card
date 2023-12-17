@@ -7,11 +7,10 @@
 }
 
 .button {
-    background-color: greenyellow;
-    color:blue;
-    border-color: rgb(247, 227, 17);
-    width: 100px;
-    height: 100px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: none;
 }
 
 .align {
