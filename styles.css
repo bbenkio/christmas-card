@@ -1,7 +1,20 @@
-.header {
+#header {
     background-color: rgb(36, 185, 36);
     color: rgb(236, 38, 38);
     font-weight: bold;
-    font-size: 48px;
+    font-size: 38px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.button {
+    background-color: greenyellow;
+    color:blue;
+    border-color: rgb(247, 227, 17);
+    width: 100px;
+    height: 100px;
+}
+
+
+.align {
+    text-align: center;
 }
