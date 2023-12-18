@@ -18,8 +18,12 @@
   border: none;
   outline: none;
   cursor: pointer;
-  background-color: none;
-  position: fixed;
+  background-color: transparent;
+  height: 50px;
+  width: 50px;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .align {
@@ -27,8 +31,12 @@
 }
 
 #elfbutton {
-    position: fixed;
-    bottom: 30px;
-    right: 20px;
+    position: fixed; 
+    bottom: 20px;
+    right: 10px;
     cursor: pointer;
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
