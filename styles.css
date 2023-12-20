@@ -35,10 +35,10 @@
     background-color: transparent;
     cursor: pointer;
     position: absolute;
+    border: none;
     bottom: 80px;
     left: 100px;
     box-sizing: border-box;
-    border: none;
     margin: 0;
     padding: 0;
 }
